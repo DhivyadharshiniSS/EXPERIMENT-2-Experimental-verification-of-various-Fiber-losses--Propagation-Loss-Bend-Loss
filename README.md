@@ -119,6 +119,10 @@ not reduce loop diameter less than 1 cm).
 |       5          |         2           |         7.6            |
 |       3          |         2           |          7             |
 
+## Block Diagram
+
+<img width="838" height="429" alt="image" src="https://github.com/user-attachments/assets/a58dda6d-28ac-4d67-a1a1-5c67da647c1c" />
+
 **Calculation:**
 ![OCN_EXP2](https://github.com/user-attachments/assets/a03d1127-1065-46e3-8677-1393deee3b20) 
 
